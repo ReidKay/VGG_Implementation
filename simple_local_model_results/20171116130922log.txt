@@ -1,0 +1,250 @@
+Epoch 0:
+	Train cost: 5.30289574146
+	Test cost: 5.29458456039
+	Train Accuracy: 0.00559999987483
+	Test Accuracy: 0.00799999982119
+Epoch 1:
+	Train cost: 5.29594056845
+	Test cost: 5.28749027252
+	Train Accuracy: 0.00859999980778
+	Test Accuracy: 0.0119999997318
+Epoch 2:
+	Train cost: 5.29059923887
+	Test cost: 5.27963826656
+	Train Accuracy: 0.00949999978766
+	Test Accuracy: 0.0139999996871
+Epoch 3:
+	Train cost: 5.28304141879
+	Test cost: 5.28033885956
+	Train Accuracy: 0.0104999997653
+	Test Accuracy: 0.0119999997318
+Epoch 4:
+	Train cost: 5.27621269107
+	Test cost: 5.2595893383
+	Train Accuracy: 0.0116999997385
+	Test Accuracy: 0.00599999986589
+Epoch 5:
+	Train cost: 5.2663495183
+	Test cost: 5.25225768089
+	Train Accuracy: 0.0108999997564
+	Test Accuracy: 0.00799999982119
+Epoch 6:
+	Train cost: 5.25307492375
+	Test cost: 5.22946374416
+	Train Accuracy: 0.0122999997251
+	Test Accuracy: 0.0119999997318
+Epoch 7:
+	Train cost: 5.25184312463
+	Test cost: 5.22228746414
+	Train Accuracy: 0.0134999996983
+	Test Accuracy: 0.0159999996424
+Epoch 8:
+	Train cost: 5.23639045835
+	Test cost: 5.22151181698
+	Train Accuracy: 0.0136999996938
+	Test Accuracy: 0.0139999996871
+Epoch 9:
+	Train cost: 5.2228760159
+	Test cost: 5.19825413227
+	Train Accuracy: 0.013199999705
+	Test Accuracy: 0.0139999996871
+Epoch 10:
+	Train cost: 5.21844008327
+	Test cost: 5.19964461327
+	Train Accuracy: 0.0140999996848
+	Test Accuracy: 0.0179999995977
+Epoch 11:
+	Train cost: 5.21869082332
+	Test cost: 5.18529157639
+	Train Accuracy: 0.0140999996848
+	Test Accuracy: 0.0139999996871
+Epoch 12:
+	Train cost: 5.20041245222
+	Test cost: 5.17746188641
+	Train Accuracy: 0.0144999996759
+	Test Accuracy: 0.0159999996424
+Epoch 13:
+	Train cost: 5.18924638271
+	Test cost: 5.16956350803
+	Train Accuracy: 0.0156999996491
+	Test Accuracy: 0.0239999994636
+Epoch 14:
+	Train cost: 5.18817714214
+	Test cost: 5.1718742609
+	Train Accuracy: 0.0164999996312
+	Test Accuracy: 0.0159999996424
+Epoch 15:
+	Train cost: 5.17554491043
+	Test cost: 5.16939017773
+	Train Accuracy: 0.0156999996491
+	Test Accuracy: 0.0219999995083
+Epoch 16:
+	Train cost: 5.1748805213
+	Test cost: 5.15938742161
+	Train Accuracy: 0.0171999996156
+	Test Accuracy: 0.0219999995083
+Epoch 17:
+	Train cost: 5.1646854043
+	Test cost: 5.14817306995
+	Train Accuracy: 0.0173999996111
+	Test Accuracy: 0.0179999995977
+Epoch 18:
+	Train cost: 5.1590325737
+	Test cost: 5.1467634201
+	Train Accuracy: 0.0185999995843
+	Test Accuracy: 0.0219999995083
+Epoch 19:
+	Train cost: 5.15371173501
+	Test cost: 5.1354418993
+	Train Accuracy: 0.0198999995552
+	Test Accuracy: 0.0299999993294
+Epoch 20:
+	Train cost: 5.13115097404
+	Test cost: 5.13568305969
+	Train Accuracy: 0.019999999553
+	Test Accuracy: 0.0299999993294
+Epoch 21:
+	Train cost: 5.12481636524
+	Test cost: 5.12549109459
+	Train Accuracy: 0.0202999995463
+	Test Accuracy: 0.0299999993294
+Epoch 22:
+	Train cost: 5.12047222972
+	Test cost: 5.125243783
+	Train Accuracy: 0.0212999995239
+	Test Accuracy: 0.0319999992847
+Epoch 23:
+	Train cost: 5.10268544793
+	Test cost: 5.10804347992
+	Train Accuracy: 0.0232999994792
+	Test Accuracy: 0.0239999994636
+Epoch 24:
+	Train cost: 5.10046767116
+	Test cost: 5.10708162785
+	Train Accuracy: 0.0232999994792
+	Test Accuracy: 0.0279999993742
+Epoch 25:
+	Train cost: 5.08553992987
+	Test cost: 5.09065270424
+	Train Accuracy: 0.0251999994367
+	Test Accuracy: 0.0279999993742
+Epoch 26:
+	Train cost: 5.06907636523
+	Test cost: 5.09414036274
+	Train Accuracy: 0.0262999994121
+	Test Accuracy: 0.0239999994636
+Epoch 27:
+	Train cost: 5.06099220157
+	Test cost: 5.10147202015
+	Train Accuracy: 0.027199999392
+	Test Accuracy: 0.0219999995083
+Epoch 28:
+	Train cost: 5.05267524838
+	Test cost: 5.08271310329
+	Train Accuracy: 0.0290999993496
+	Test Accuracy: 0.0319999992847
+Epoch 29:
+	Train cost: 5.04713862062
+	Test cost: 5.09195418358
+	Train Accuracy: 0.0290999993496
+	Test Accuracy: 0.0239999994636
+Epoch 30:
+	Train cost: 5.03439341903
+	Test cost: 5.08246965408
+	Train Accuracy: 0.029199999366
+	Test Accuracy: 0.019999999553
+Epoch 31:
+	Train cost: 5.03251865029
+	Test cost: 5.0749355793
+	Train Accuracy: 0.0326999992877
+	Test Accuracy: 0.0219999995083
+Epoch 32:
+	Train cost: 5.03082128406
+	Test cost: 5.06786975861
+	Train Accuracy: 0.0346999992244
+	Test Accuracy: 0.0219999995083
+Epoch 33:
+	Train cost: 5.01302340627
+	Test cost: 5.07022311687
+	Train Accuracy: 0.0361999991909
+	Test Accuracy: 0.0239999994636
+Epoch 34:
+	Train cost: 4.99885588169
+	Test cost: 5.05404462814
+	Train Accuracy: 0.0378999991529
+	Test Accuracy: 0.0239999994636
+Epoch 35:
+	Train cost: 4.99248390436
+	Test cost: 5.06816453934
+	Train Accuracy: 0.039899999164
+	Test Accuracy: 0.0299999993294
+Epoch 36:
+	Train cost: 4.98671759248
+	Test cost: 5.04923388958
+	Train Accuracy: 0.0413999990933
+	Test Accuracy: 0.0259999994189
+Epoch 37:
+	Train cost: 4.97558239937
+	Test cost: 5.04636883736
+	Train Accuracy: 0.0433999990299
+	Test Accuracy: 0.019999999553
+Epoch 38:
+	Train cost: 4.96862175107
+	Test cost: 5.0533018589
+	Train Accuracy: 0.0467999990284
+	Test Accuracy: 0.0239999994636
+Epoch 39:
+	Train cost: 4.96141257286
+	Test cost: 5.05060822964
+	Train Accuracy: 0.0466999990493
+	Test Accuracy: 0.0239999994636
+Epoch 40:
+	Train cost: 4.96125963569
+	Test cost: 5.04927101135
+	Train Accuracy: 0.0487999989465
+	Test Accuracy: 0.0279999993742
+Epoch 41:
+	Train cost: 4.95464001536
+	Test cost: 5.0390583992
+	Train Accuracy: 0.051699998863
+	Test Accuracy: 0.0239999994636
+Epoch 42:
+	Train cost: 4.94988512278
+	Test cost: 5.03729367256
+	Train Accuracy: 0.0517999988794
+	Test Accuracy: 0.0239999994636
+Epoch 43:
+	Train cost: 4.93828564405
+	Test cost: 5.03167302608
+	Train Accuracy: 0.0532999988273
+	Test Accuracy: 0.0299999993294
+Epoch 44:
+	Train cost: 4.92041271806
+	Test cost: 5.02540438175
+	Train Accuracy: 0.0561999988183
+	Test Accuracy: 0.0219999995083
+Epoch 45:
+	Train cost: 4.91946685076
+	Test cost: 5.04822063446
+	Train Accuracy: 0.0590999986976
+	Test Accuracy: 0.0259999994189
+Epoch 46:
+	Train cost: 4.90710472107
+	Test cost: 5.02321369648
+	Train Accuracy: 0.0592999988236
+	Test Accuracy: 0.0279999993742
+Epoch 47:
+	Train cost: 4.90942443848
+	Test cost: 5.03090691566
+	Train Accuracy: 0.0616999987885
+	Test Accuracy: 0.0279999993742
+Epoch 48:
+	Train cost: 4.89471325159
+	Test cost: 5.02711019516
+	Train Accuracy: 0.0644999986328
+	Test Accuracy: 0.03399999924
+Epoch 49:
+	Train cost: 4.89085516214
+	Test cost: 5.01610167027
+	Train Accuracy: 0.0630999986827
+	Test Accuracy: 0.0279999993742
